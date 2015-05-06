@@ -1,0 +1,24 @@
+Only OP Can Reply 1.0 MyBB Plugin by KuJoe <www.jmd.cc>
+
+\\What it does:\\
+_\\_____________\\_
+Sets a specific forum that only the thread author can reply to their own threads. There is an option to allow moderators to reply to "protected" threads also.
+
+\\How to install:\\
+_\\_______________\\_
+1) Upload the included \inc\ folder into your forums root directory (this will result in 1 opcr.php file in your \plugins\ directory).
+2) Activate the plugin and configure the settings to your liking under Board Settings.
+
+\\How to upgrade:\\
+_\\_______________\\_
+1) Deactivate older version.
+2) Uploaded and overwrite all files.
+3) Activate the plugins and configure settings to your liking under Board Settings.
+
+\\Additional Info:\\
+_\\________________\\_
+This plugin was created to emulate the vBulletin permission "Can Reply to Own Threads" or "Can Reply to Others' Threads" (depending on how you look at it) which I use for quite a few things. I considered adding this as an actual permission for Usergroups but I decided not to get to indepth with it. You are free to use this code and plugin as long as it follows the Expat "MIT" License requirements and restrictions.
+
+\\Change Log:\\
+_\\___________\\_
+1.0- Initial Release
